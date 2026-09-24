@@ -10,7 +10,7 @@ public class GymMenu {
         while (running) {
             System.out.println("=== GYM MENU ===");
             System.out.println("1. Enter Gym");
-            System.out.println("2. Hire Trainer");
+            System.out.println("2. Hire Trainer Laurio");
             System.out.println("3. Exit");
             System.out.print("Choose: ");
 
@@ -40,7 +40,7 @@ public class GymMenu {
 
         if (level == 1) {
             System.out.println("=======================");
-            System.out.println("Trainer Assigned");
+            System.out.println("Trainer Lauriat Assigned");
         } else if (level == 2) {
             System.out.println("=======================");
             System.out.println("Upgrade Required");
