@@ -2,7 +2,7 @@ package com.example.sampleapplicationfordemo.practicalexam.quarter2;
 
 import java.util.Scanner;
 
-public class GymAccessTest {
+public class GymMenu {
 
     public void start(Scanner scanner) {
         boolean running = true;
