@@ -18,6 +18,7 @@ public class GymMenu {
 
             switch (choice) {
                 case 1:
+                    System.out.println("=======================");
                     System.out.println("Welcome to the gym floor!");
                     break;
                 case 2:
@@ -38,10 +39,13 @@ public class GymMenu {
         int level = scanner.nextInt();
 
         if (level == 1) {
+            System.out.println("=======================");
             System.out.println("Trainer Assigned");
         } else if (level == 2) {
+            System.out.println("=======================");
             System.out.println("Upgrade Required");
         } else {
+            System.out.println("=======================");
             System.out.println("Invalid membership level.");
         }
     }
