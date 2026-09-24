@@ -3,7 +3,7 @@ plugins {
 }
 
 android {
-    namespace = "com.example.gymaccesstest"
+    namespace = "com.example.sampleapplicationfordemo"
     compileSdk {
         version = release(37)
     }

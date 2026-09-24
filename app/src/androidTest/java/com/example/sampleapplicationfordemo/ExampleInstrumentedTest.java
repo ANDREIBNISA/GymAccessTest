@@ -1,4 +1,4 @@
-package com.example.gymaccesstest;
+package com.example.sampleapplicationfordemo;
 
 import android.content.Context;
 
